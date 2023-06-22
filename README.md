@@ -11,7 +11,7 @@ Cucumber
 Serenity BDD
 Chromedriver
 
-#Dependencias
+# Dependencias
 Serenity Core: 2.6.0
 Serenity Cucumber: 2.6.0
 JUnit: 4.13.2
@@ -28,11 +28,11 @@ Page Object Model (POM)
 3.Configura las dependencias del proyecto. Asegúrate de tener las versiones correctas en el archivo pom.xml.
 4.Descargar los controladores de navegador necesarios ChromeDriver y asegúrate de que estén en tu PATH o configura la ubicación en el archivo de configuración.
 
-#Ejecución de las Pruebas
+# Ejecución de las Pruebas
 1. Abre el archivo src/test/resources/features en tu IDE.
 2. Ejecuta las pruebas automatizadas utilizando el runner correspondiente, por ejemplo, RunnerLogin.java para las pruebas de inicio de sesión
 
-#casos de prueba
+# casos de prueba
 Se automatizaron los procesos de :
 Registro
 Login
